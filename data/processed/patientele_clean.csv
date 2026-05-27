@@ -1,0 +1,1081 @@
+﻿annee,profession_sante,code_region,libelle_region,code_dep,libelle_dep,nombre_patients,taux_evolution,taux_evolution_annuel_integer
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,999,Tout département,860,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,972,Martinique,891,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,999,Tout département,775,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,976,Mayotte,23,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,999,Tout département,23,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,091,Essonne,1007,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,095,Val-d'Oise,1007,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,036,Indre,1048,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,041,Loir-et-Cher,996,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,039,Jura,874,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,058,Nièvre,1080,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,090,Territoire de Belfort,855,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,027,Eure,1043,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,080,Somme,811,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,052,Haute-Marne,967,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,054,Meurthe-et-Moselle,795,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,055,Meuse,899,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,068,Haut-Rhin,926,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,044,Loire-Atlantique,883,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,049,Maine-et-Loire,836,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,053,Mayenne,1098,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,999,Tout département,928,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,035,Ille-et-Vilaine,821,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,019,Corrèze,817,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,064,Pyrénées-Atlantiques,759,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,086,Vienne,814,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,087,Haute-Vienne,678,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,031,Haute-Garonne,749,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,032,Gers,763,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,066,Pyrénées-Orientales,677,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,082,Tarn-et-Garonne,911,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,999,Tout département,765,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,026,Drôme,891,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,038,Isère,790,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,042,Loire,884,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,043,Haute-Loire,849,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,063,Puy-de-Dôme,812,NC,
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,971,Guadeloupe,861,0.001,0.1
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,999,Tout département,923,0.036,3.6
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,976,Mayotte,17,-0.260,-26.0
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,077,Seine-et-Marne,1139,0.074,7.399999999999999
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,078,Yvelines,1056,0.066,6.6000000000000005
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,091,Essonne,1089,0.081,8.1
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,092,Hauts-de-Seine,1024,0.038,3.8
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,093,Seine-Saint-Denis,1082,0.085,8.5
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,094,Val-de-Marne,1067,0.089,8.9
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,095,Val-d'Oise,1100,0.092,9.2
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,999,Tout département,1028,0.069,6.9
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,045,Loiret,1139,0.078,7.8
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,021,Côte-d'Or,881,0.051,5.1
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,039,Jura,927,0.061,6.1
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,058,Nièvre,1150,0.065,6.5
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,089,Yonne,1108,0.067,6.7
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,090,Territoire de Belfort,961,0.124,12.4
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,027,Eure,1118,0.072,7.199999999999999
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,059,Nord,853,0.077,7.7
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,060,Oise,1121,0.053,5.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,062,Pas-de-Calais,928,0.084,8.4
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,054,Meurthe-et-Moselle,837,0.053,5.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,067,Bas-Rhin,768,0.034,3.4000000000000004
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,999,Tout département,899,0.055,5.5
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,044,Loire-Atlantique,936,0.060,6.0
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,053,Mayenne,1189,0.083,8.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,072,Sarthe,1151,0.074,7.399999999999999
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,022,Côtes-d'Armor,947,0.075,7.5
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,029,Finistère,845,0.054,5.4
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,016,Charente,966,0.051,5.1
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,047,Lot-et-Garonne,1053,0.039,3.9
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,079,Deux-Sèvres,1105,0.077,7.7
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,086,Vienne,849,0.043,4.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,011,Aude,859,0.051,5.1
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,012,Aveyron,892,0.003,0.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,030,Gard,891,0.065,6.5
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,031,Haute-Garonne,776,0.036,3.6
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,032,Gers,809,0.060,6.0
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,048,Lozère,840,0.033,3.3000000000000003
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,081,Tarn,845,0.039,3.9
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,999,Tout département,802,0.048,4.8
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,001,Ain,1049,0.053,5.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,003,Allier,951,0.081,8.1
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,038,Isère,829,0.049,4.9
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,069,Rhône,854,0.054,5.4
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,999,Tout département,869,0.053,5.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,005,Hautes-Alpes,632,-0.003,-0.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,013,Bouches-du-Rhône,709,0.052,5.2
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,999,Tout département,819,0.038,3.8
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,999,Tout département,855,0.035,3.5000000000000004
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,075,Paris,884,0.021,2.1
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,093,Seine-Saint-Denis,1126,0.041,4.1000000000000005
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,018,Cher,1227,0.078,7.8
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,028,Eure-et-Loir,1290,0.071,7.1
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,041,Loir-et-Cher,1088,0.030,3.0
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,045,Loiret,1188,0.043,4.3
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,999,Tout département,1123,0.049,4.9
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,025,Doubs,850,0.065,6.5
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,070,Haute-Saône,920,0.026,2.6
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,071,Saône-et-Loire,1028,0.020,2.0
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,090,Territoire de Belfort,1017,0.058,5.800000000000001
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,999,Tout département,966,0.038,3.8
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,050,Manche,1117,0.030,3.0
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,076,Seine-Maritime,1002,0.045,4.5
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,059,Nord,891,0.045,4.5
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,060,Oise,1192,0.063,6.3
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,055,Meuse,1011,0.078,7.8
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,088,Vosges,1003,0.026,2.6
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,053,Mayenne,1266,0.065,6.5
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,085,Vendée,1139,0.067,6.7
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,029,Finistère,869,0.028,2.8000000000000003
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,056,Morbihan,903,0.025,2.5
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,023,Creuse,886,0.042,4.2
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,040,Landes,867,0.060,6.0
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,086,Vienne,872,0.027,2.7
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,012,Aveyron,901,0.010,1.0
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,032,Gers,849,0.049,4.9
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,046,Lot,916,0.048,4.8
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,065,Hautes-Pyrénées,867,0.050,5.0
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,082,Tarn-et-Garonne,1000,0.045,4.5
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,001,Ain,1085,0.034,3.4000000000000004
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,015,Cantal,836,0.012,1.2
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,043,Haute-Loire,934,0.017,1.7000000000000002
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,069,Rhône,873,0.022,2.2
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,013,Bouches-du-Rhône,744,0.049,4.9
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,999,Tout département,795,0.039,3.9
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02B,Haute-Corse,880,0.065,6.5
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),99,FRANCE,999,FRANCE,935,0.041,4.1000000000000005
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,999,Tout département,853,-0.002,-0.2
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,999,Tout département,9,-0.250,-25.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,078,Yvelines,1147,0.048,4.8
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,092,Hauts-de-Seine,1113,0.049,4.9
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,093,Seine-Saint-Denis,1182,0.050,5.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,041,Loir-et-Cher,1133,0.041,4.1000000000000005
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,045,Loiret,1222,0.029,2.9000000000000004
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,039,Jura,1006,0.047,4.7
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,027,Eure,1227,0.031,3.1
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,076,Seine-Maritime,1024,0.022,2.2
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,999,Tout département,1073,0.040,4.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,059,Nord,921,0.034,3.4000000000000004
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,060,Oise,1254,0.052,5.2
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,051,Marne,1008,0.038,3.8
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,055,Meuse,1061,0.050,5.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,999,Tout département,965,0.031,3.1
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,072,Sarthe,1222,0.018,1.7999999999999998
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,029,Finistère,873,0.005,0.5
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,035,Ille-et-Vilaine,914,0.020,2.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,999,Tout département,926,0.018,1.7999999999999998
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,017,Charente-Maritime,851,0.020,2.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,019,Corrèze,986,0.072,7.199999999999999
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,023,Creuse,938,0.059,5.9
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,024,Dordogne,1018,0.031,3.1
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,047,Lot-et-Garonne,1173,0.034,3.4000000000000004
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,079,Deux-Sèvres,1161,0.033,3.3000000000000003
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,011,Aude,919,0.034,3.4000000000000004
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,030,Gard,966,0.040,4.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,032,Gers,889,0.047,4.7
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,034,Hérault,787,0.034,3.4000000000000004
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,046,Lot,952,0.039,3.9
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,065,Hautes-Pyrénées,912,0.052,5.2
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,066,Pyrénées-Orientales,776,0.017,1.7000000000000002
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,081,Tarn,915,0.051,5.1
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,082,Tarn-et-Garonne,1036,0.036,3.6
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,038,Isère,892,0.031,3.1
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,042,Loire,957,-0.011,-1.1
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,043,Haute-Loire,961,0.029,2.9000000000000004
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,074,Haute-Savoie,932,0.046,4.6
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,999,Tout département,932,0.033,3.3000000000000003
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,083,Var,921,0.053,5.3
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,084,Vaucluse,934,0.005,0.5
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,999,Tout département,814,0.024,2.4
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,999,Tout département,873,0.018,1.7999999999999998
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,999,Tout département,970,0.024,2.4
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,999,Tout département,981,0.047,4.7
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,976,Mayotte,99,10.000,1000.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,999,Tout département,99,10.000,1000.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,078,Yvelines,1191,0.038,3.8
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,092,Hauts-de-Seine,1149,0.032,3.2
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,093,Seine-Saint-Denis,1228,0.039,3.9
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,999,Tout département,1158,0.031,3.1
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,018,Cher,1335,-0.014,-1.4
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,021,Côte-d'Or,911,-0.010,-1.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,025,Doubs,915,0.022,2.2
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,058,Nièvre,1272,0.010,1.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,089,Yonne,1210,0.026,2.6
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,999,Tout département,1099,0.024,2.4
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,059,Nord,942,0.023,2.3
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,062,Pas-de-Calais,1042,0.024,2.4
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,080,Somme,904,0.012,1.2
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,008,Ardennes,1011,0.034,3.4000000000000004
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,010,Aube,1251,0.062,6.2
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,052,Haute-Marne,1105,0.018,1.7999999999999998
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,054,Meurthe-et-Moselle,892,0.001,0.1
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,057,Moselle,1069,0.037,3.7
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,088,Vosges,1050,0.019,1.9
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,999,Tout département,983,0.019,1.9
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,072,Sarthe,1281,0.048,4.8
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,999,Tout département,1077,0.010,1.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,029,Finistère,876,0.003,0.3
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,999,Tout département,937,0.012,1.2
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,016,Charente,1087,0.028,2.8000000000000003
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,024,Dordogne,1079,0.060,6.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,087,Haute-Vienne,785,0.026,2.6
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,999,Tout département,900,0.019,1.9
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,009,Ariège,881,0.027,2.7
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,012,Aveyron,991,0.032,3.2
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,030,Gard,986,0.021,2.1
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,031,Haute-Garonne,842,0.000,0.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,046,Lot,973,0.022,2.2
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,048,Lozère,893,-0.023,-2.3
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,065,Hautes-Pyrénées,906,-0.006,-0.6
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,999,Tout département,887,0.023,2.3
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,038,Isère,908,0.018,1.7999999999999998
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,074,Haute-Savoie,937,0.005,0.5
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,004,Alpes-de-Haute-Provence,828,0.064,6.4
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,005,Hautes-Alpes,696,0.019,1.9
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),99,FRANCE,999,FRANCE,988,0.022,2.2
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,971,Guadeloupe,985,0.016,1.6
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,973,Guyane,1004,0.023,2.3
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,078,Yvelines,1239,0.040,4.0
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,093,Seine-Saint-Denis,1252,0.020,2.0
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,999,Tout département,1176,0.016,1.6
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,028,Eure-et-Loir,1416,0.000,0.0
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,041,Loir-et-Cher,1181,0.019,1.9
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,045,Loiret,1265,0.015,1.5
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,071,Saône-et-Loire,1131,0.034,3.4000000000000004
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,089,Yonne,1232,0.018,1.7999999999999998
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,090,Territoire de Belfort,1025,0.011,1.1
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,050,Manche,1228,0.007,0.7000000000000001
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,061,Orne,1185,-0.005,-0.5
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,999,Tout département,1108,0.008,0.8
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,010,Aube,1260,0.007,0.7000000000000001
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,044,Loire-Atlantique,989,0.004,0.4
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,072,Sarthe,1305,0.019,1.9
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,022,Côtes-d'Armor,1050,-0.020,-2.0
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,029,Finistère,878,0.002,0.2
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,035,Ille-et-Vilaine,945,0.023,2.3
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,999,Tout département,943,0.006,0.6
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,019,Corrèze,1065,0.069,6.9
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,999,Tout département,913,0.014,1.4
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,012,Aveyron,1000,0.009,0.8999999999999999
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,031,Haute-Garonne,855,0.015,1.5
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,046,Lot,1014,0.042,4.2
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,001,Ain,1252,0.031,3.1
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,026,Drôme,1013,0.027,2.7
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,042,Loire,1001,0.011,1.1
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,069,Rhône,928,0.007,0.7000000000000001
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,074,Haute-Savoie,957,0.021,2.1
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,083,Var,987,0.050,5.0
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,999,Tout département,848,0.016,1.6
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02A,Corse-du-Sud,929,0.001,0.1
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,972,Martinique,949,0.009,0.8999999999999999
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,999,Tout département,883,0.003,0.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,999,Tout département,475,0.578,57.8
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,091,Essonne,1342,0.035,3.5000000000000004
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,092,Hauts-de-Seine,1196,0.017,1.7000000000000002
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,093,Seine-Saint-Denis,1303,0.041,4.1000000000000005
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,045,Loiret,1306,0.032,3.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,021,Côte-d'Or,942,0.014,1.4
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,058,Nièvre,1348,0.048,4.8
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,071,Saône-et-Loire,1161,0.027,2.7
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,999,Tout département,1057,0.021,2.1
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,014,Calvados,998,0.025,2.5
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,050,Manche,1256,0.023,2.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,061,Orne,1225,0.034,3.4000000000000004
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,060,Oise,1305,0.000,0.0
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,080,Somme,906,-0.001,-0.1
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,010,Aube,1306,0.037,3.7
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,057,Moselle,1106,0.022,2.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,068,Haut-Rhin,1131,0.008,0.8
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,088,Vosges,1084,0.016,1.6
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,999,Tout département,1012,0.013,1.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,072,Sarthe,1265,-0.030,-3.0
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,022,Côtes-d'Armor,1072,0.021,2.1
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,016,Charente,1156,0.053,5.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,023,Creuse,1004,0.077,7.7
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,024,Dordogne,1138,0.043,4.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,030,Gard,1043,0.034,3.4000000000000004
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,999,Tout département,929,0.021,2.1
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,026,Drôme,1026,0.013,1.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,004,Alpes-de-Haute-Provence,875,0.058,5.800000000000001
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,084,Vaucluse,994,0.009,0.8999999999999999
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,999,Tout département,856,0.009,0.8999999999999999
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02A,Corse-du-Sud,959,0.032,3.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02B,Haute-Corse,930,-0.001,-0.1
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,999,Tout département,1186,0.061,6.1
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,999,Tout département,884,0.001,0.1
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,976,Mayotte,779,0.640,64.0
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,999,Tout département,779,0.640,64.0
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,075,Paris,969,0.015,1.5
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,091,Essonne,1360,0.013,1.3
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,092,Hauts-de-Seine,1219,0.019,1.9
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,093,Seine-Saint-Denis,1346,0.033,3.3000000000000003
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,999,Tout département,1226,0.017,1.7000000000000002
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,041,Loir-et-Cher,1259,0.030,3.0
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,045,Loiret,1315,0.007,0.7000000000000001
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,021,Côte-d'Or,955,0.014,1.4
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,039,Jura,1085,-0.023,-2.3
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,090,Territoire de Belfort,1115,0.045,4.5
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,061,Orne,1155,-0.057,-5.7
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,076,Seine-Maritime,1061,0.015,1.5
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,999,Tout département,1066,0.018,1.7999999999999998
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,008,Ardennes,1124,0.062,6.2
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,010,Aube,1284,-0.016,-1.6
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,054,Meurthe-et-Moselle,918,-0.005,-0.5
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,067,Bas-Rhin,849,0.029,2.9000000000000004
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,068,Haut-Rhin,1144,0.012,1.2
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,035,Ille-et-Vilaine,953,0.021,2.1
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,056,Morbihan,922,-0.032,-3.2
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,999,Tout département,948,0.005,0.5
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,017,Charente-Maritime,919,0.007,0.7000000000000001
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,019,Corrèze,1105,0.024,2.4
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,033,Gironde,830,0.007,0.7000000000000001
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,040,Landes,928,-0.010,-1.0
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,064,Pyrénées-Atlantiques,801,-0.011,-1.1
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,999,Tout département,929,0.005,0.5
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,011,Aude,1001,0.023,2.3
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,032,Gers,1015,0.053,5.3
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,046,Lot,1109,0.057,5.7
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,001,Ain,1292,0.019,1.9
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,003,Allier,1138,-0.026,-2.6
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,007,Ardèche,1120,0.026,2.6
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,026,Drôme,1054,0.027,2.7
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,042,Loire,1011,0.004,0.4
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,073,Savoie,810,0.033,3.3000000000000003
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,074,Haute-Savoie,973,0.010,1.0
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,999,Tout département,978,0.036,3.6
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,971,Guadeloupe,990,-0.019,-1.9
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,999,Tout département,990,-0.019,-1.9
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,999,Tout département,1321,0.114,11.4
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,999,Tout département,876,0.125,12.5
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,078,Yvelines,1287,0.011,1.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,091,Essonne,1405,0.033,3.3000000000000003
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,092,Hauts-de-Seine,1235,0.013,1.3
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,094,Val-de-Marne,1273,0.013,1.3
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,999,Tout département,1237,0.009,0.8999999999999999
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,018,Cher,1428,-0.006,-0.6
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,036,Indre,1382,0.053,5.3
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,041,Loir-et-Cher,1259,0.000,0.0
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,025,Doubs,945,0.007,0.7000000000000001
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,070,Haute-Saône,1030,0.041,4.1000000000000005
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,089,Yonne,1302,0.037,3.7
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,090,Territoire de Belfort,1177,0.056,5.6000000000000005
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,061,Orne,1226,0.061,6.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,002,Aisne,1296,-0.011,-1.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,060,Oise,1252,-0.033,-3.3000000000000003
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,999,Tout département,1068,0.002,0.2
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,008,Ardennes,1168,0.039,3.9
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,010,Aube,1274,-0.008,-0.8
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,054,Meurthe-et-Moselle,932,0.015,1.5
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,055,Meuse,1157,0.011,1.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,999,Tout département,1035,0.009,0.8999999999999999
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,053,Mayenne,1413,0.021,2.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,085,Vendée,1298,-0.004,-0.4
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,022,Côtes-d'Armor,1137,0.004,0.4
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,056,Morbihan,896,-0.028,-2.8000000000000003
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,999,Tout département,936,-0.013,-1.3
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,023,Creuse,1016,-0.024,-2.4
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,064,Pyrénées-Atlantiques,820,0.024,2.4
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,079,Deux-Sèvres,1229,0.003,0.3
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,011,Aude,1065,0.064,6.4
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,031,Haute-Garonne,884,0.020,2.0
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,032,Gers,996,-0.019,-1.9
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,048,Lozère,1065,0.089,8.9
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,065,Hautes-Pyrénées,949,0.018,1.7999999999999998
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,081,Tarn,1100,0.059,5.9
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,082,Tarn-et-Garonne,1100,-0.010,-1.0
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,999,Tout département,952,0.016,1.6
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,038,Isère,978,0.053,5.3
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,043,Haute-Loire,1041,-0.010,-1.0
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,063,Puy-de-Dôme,963,0.046,4.6
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,069,Rhône,941,0.000,0.0
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,004,Alpes-de-Haute-Provence,864,0.019,1.9
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,005,Hautes-Alpes,696,0.025,2.5
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,013,Bouches-du-Rhône,814,0.020,2.0
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,083,Var,1012,0.006,0.6
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,084,Vaucluse,1017,0.007,0.7000000000000001
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),99,FRANCE,999,FRANCE,1033,0.008,0.8
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,971,Guadeloupe,860,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,999,Tout département,891,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,999,Tout département,788,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,974,La Réunion,775,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,077,Seine-et-Marne,1061,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,999,Tout département,962,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,070,Haute-Saône,854,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,089,Yonne,1038,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,999,Tout département,884,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,014,Calvados,834,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,050,Manche,1005,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,999,Tout département,927,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,060,Oise,1065,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,062,Pas-de-Calais,856,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,999,Tout département,854,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,051,Marne,838,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,072,Sarthe,1072,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,085,Vendée,985,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,056,Morbihan,849,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,999,Tout département,832,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,023,Creuse,789,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,024,Dordogne,892,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,033,Gironde,708,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,009,Ariège,753,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,030,Gard,837,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,048,Lozère,813,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,065,Hautes-Pyrénées,790,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,007,Ardèche,900,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,015,Cantal,815,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,069,Rhône,810,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,004,Alpes-de-Haute-Provence,726,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,005,Hautes-Alpes,634,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,013,Bouches-du-Rhône,674,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,083,Var,803,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,084,Vaucluse,833,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,999,Tout département,727,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02B,Haute-Corse,780,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,999,Tout département,789,NC,
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,999,Tout département,861,0.001,0.1
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,972,Martinique,923,0.036,3.6
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,999,Tout département,822,0.043,4.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,974,La Réunion,826,0.066,6.6000000000000005
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,999,Tout département,17,-0.260,-26.0
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,075,Paris,866,0.051,5.1
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,025,Doubs,798,0.043,4.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,070,Haute-Saône,897,0.050,5.0
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,071,Saône-et-Loire,1008,0.045,4.5
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,999,Tout département,931,0.053,5.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,050,Manche,1084,0.079,7.9
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,076,Seine-Maritime,959,0.072,7.199999999999999
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,999,Tout département,989,0.067,6.7
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,080,Somme,844,0.041,4.1000000000000005
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,999,Tout département,916,0.073,7.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,052,Haute-Marne,964,-0.003,-0.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,068,Haut-Rhin,972,0.050,5.0
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,088,Vosges,978,0.084,8.4
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,049,Maine-et-Loire,900,0.077,7.7
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,999,Tout département,993,0.070,7.000000000000001
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,035,Ille-et-Vilaine,863,0.051,5.1
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,999,Tout département,876,0.053,5.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,019,Corrèze,848,0.038,3.8
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,033,Gironde,743,0.049,4.9
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,064,Pyrénées-Atlantiques,774,0.020,2.0
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,087,Haute-Vienne,714,0.053,5.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,007,Ardèche,924,0.027,2.7
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,074,Haute-Savoie,831,0.082,8.200000000000001
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,004,Alpes-de-Haute-Provence,742,0.022,2.2
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,084,Vaucluse,892,0.071,7.1
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02A,Corse-du-Sud,811,0.014,1.4
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02B,Haute-Corse,826,0.059,5.9
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,999,Tout département,918,0.066,6.6000000000000005
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,972,Martinique,957,0.037,3.7
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,976,Mayotte,12,-0.294,-29.4
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,999,Tout département,12,-0.294,-29.4
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,078,Yvelines,1094,0.036,3.6
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,999,Tout département,1071,0.042,4.2
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,036,Indre,1189,0.052,5.2
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,021,Côte-d'Or,912,0.035,3.5000000000000004
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,058,Nièvre,1155,0.004,0.4
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,014,Calvados,921,0.034,3.4000000000000004
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,027,Eure,1190,0.064,6.4
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,999,Tout département,1032,0.044,4.4
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,002,Aisne,1150,0.056,5.6000000000000005
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,062,Pas-de-Calais,971,0.046,4.6
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,999,Tout département,957,0.045,4.5
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,010,Aube,1150,0.052,5.2
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,052,Haute-Marne,1004,0.042,4.2
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,057,Moselle,990,0.030,3.0
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,068,Haut-Rhin,1037,0.067,6.7
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,044,Loire-Atlantique,970,0.036,3.6
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,049,Maine-et-Loire,941,0.046,4.6
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,072,Sarthe,1201,0.043,4.3
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,022,Côtes-d'Armor,1023,0.080,8.0
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,016,Charente,998,0.033,3.3000000000000003
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,017,Charente-Maritime,834,0.049,4.9
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,019,Corrèze,920,0.085,8.5
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,033,Gironde,771,0.038,3.8
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,047,Lot-et-Garonne,1135,0.078,7.8
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,079,Deux-Sèvres,1124,0.017,1.7000000000000002
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,087,Haute-Vienne,731,0.024,2.4
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,999,Tout département,854,0.040,4.0
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,009,Ariège,826,0.040,4.0
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,999,Tout département,837,0.044,4.4
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,003,Allier,1018,0.071,7.1
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,007,Ardèche,961,0.040,4.0
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,038,Isère,865,0.043,4.3
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,063,Puy-de-Dôme,875,0.037,3.7
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,073,Savoie,750,0.030,3.0
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,074,Haute-Savoie,891,0.072,7.199999999999999
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,004,Alpes-de-Haute-Provence,770,0.038,3.8
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,006,Alpes-Maritimes,786,0.023,2.3
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,084,Vaucluse,929,0.042,4.2
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,999,Tout département,976,0.020,2.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,973,Guyane,937,0.087,8.7
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,999,Tout département,937,0.087,8.7
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,095,Val-d'Oise,1266,0.069,6.9
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,018,Cher,1355,0.104,10.4
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,037,Indre-et-Loire,967,0.027,2.7
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,021,Côte-d'Or,921,0.010,1.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,058,Nièvre,1259,0.090,9.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,070,Haute-Saône,983,0.069,6.9
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,090,Territoire de Belfort,984,-0.032,-3.2
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,999,Tout département,998,0.033,3.3000000000000003
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,050,Manche,1208,0.082,8.200000000000001
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,062,Pas-de-Calais,1018,0.048,4.8
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,999,Tout département,997,0.042,4.2
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,010,Aube,1178,0.024,2.4
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,054,Meurthe-et-Moselle,891,0.024,2.4
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,067,Bas-Rhin,804,0.016,1.6
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,088,Vosges,1030,0.027,2.7
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,999,Tout département,1066,0.027,2.7
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,016,Charente,1057,0.059,5.9
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,033,Gironde,798,0.035,3.5000000000000004
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,040,Landes,877,0.012,1.2
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,087,Haute-Vienne,765,0.047,4.7
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,009,Ariège,858,0.039,3.9
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,012,Aveyron,960,0.066,6.6000000000000005
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,031,Haute-Garonne,842,0.034,3.4000000000000004
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,048,Lozère,914,0.003,0.3
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,001,Ain,1124,0.036,3.6
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,007,Ardèche,1028,0.070,7.000000000000001
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,073,Savoie,794,0.059,5.9
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,004,Alpes-de-Haute-Provence,778,0.010,1.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,005,Hautes-Alpes,683,0.013,1.3
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,006,Alpes-Maritimes,801,0.019,1.9
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,013,Bouches-du-Rhône,759,0.020,2.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),99,FRANCE,999,FRANCE,967,0.034,3.4000000000000004
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,091,Essonne,1282,0.046,4.6
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,095,Val-d'Oise,1313,0.037,3.7
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,028,Eure-et-Loir,1417,0.058,5.800000000000001
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,036,Indre,1291,0.018,1.7999999999999998
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,041,Loir-et-Cher,1159,0.023,2.3
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,999,Tout département,1194,0.021,2.1
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,039,Jura,1037,0.031,3.1
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,090,Territoire de Belfort,1014,0.031,3.1
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,014,Calvados,965,0.011,1.1
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,027,Eure,1304,0.063,6.3
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,061,Orne,1192,0.013,1.3
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,076,Seine-Maritime,1051,0.026,2.6
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,002,Aisne,1282,0.042,4.2
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,999,Tout département,1021,0.024,2.4
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,051,Marne,1008,0.000,0.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,053,Mayenne,1310,-0.010,-1.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,085,Vendée,1260,0.042,4.2
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,022,Côtes-d'Armor,1072,0.018,1.7999999999999998
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,019,Corrèze,996,0.010,1.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,033,Gironde,814,0.020,2.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,015,Cantal,894,0.047,4.7
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,043,Haute-Loire,982,0.022,2.2
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,063,Puy-de-Dôme,924,0.019,1.9
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,069,Rhône,922,0.015,1.5
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,073,Savoie,782,-0.015,-1.5
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,999,Tout département,949,0.018,1.7999999999999998
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,006,Alpes-Maritimes,824,0.029,2.9000000000000004
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,083,Var,940,0.021,2.1
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,084,Vaucluse,962,0.030,3.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,999,Tout département,835,0.026,2.6
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02A,Corse-du-Sud,928,0.059,5.9
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,999,Tout département,928,0.063,6.3
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,999,Tout département,1004,0.023,2.3
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,999,Tout département,880,0.005,0.5
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,075,Paris,924,-0.004,-0.4
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,091,Essonne,1297,0.012,1.2
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,095,Val-d'Oise,1338,0.019,1.9
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,018,Cher,1332,-0.002,-0.2
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,037,Indre-et-Loire,982,-0.004,-0.4
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,039,Jura,1059,0.021,2.1
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,058,Nièvre,1286,0.011,1.1
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,999,Tout département,1035,0.020,2.0
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,002,Aisne,1296,0.011,1.1
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,059,Nord,953,0.012,1.2
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,080,Somme,907,0.003,0.3
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,054,Meurthe-et-Moselle,906,0.016,1.6
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,068,Haut-Rhin,1122,0.029,2.9000000000000004
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,088,Vosges,1067,0.016,1.6
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,085,Vendée,1271,0.009,0.8999999999999999
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,999,Tout département,1080,0.003,0.3
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,056,Morbihan,951,0.007,0.7000000000000001
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,017,Charente-Maritime,910,0.033,3.3000000000000003
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,023,Creuse,932,0.018,1.7999999999999998
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,033,Gironde,815,0.001,0.1
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,064,Pyrénées-Atlantiques,830,0.022,2.2
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,086,Vienne,918,0.000,0.0
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,009,Ariège,916,0.040,4.0
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,032,Gers,1015,0.108,10.8
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,048,Lozère,951,0.065,6.5
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,065,Hautes-Pyrénées,926,0.022,2.2
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,066,Pyrénées-Orientales,844,0.042,4.2
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,082,Tarn-et-Garonne,1047,-0.010,-1.0
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,003,Allier,1135,0.057,5.7
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,007,Ardèche,1037,0.018,1.7999999999999998
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,063,Puy-de-Dôme,930,0.007,0.7000000000000001
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,073,Savoie,786,0.005,0.5
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,999,Tout département,963,0.015,1.5
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,006,Alpes-Maritimes,843,0.023,2.3
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,084,Vaucluse,985,0.024,2.4
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),99,FRANCE,999,FRANCE,1001,0.013,1.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,971,Guadeloupe,985,0.000,0.0
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,999,Tout département,985,0.000,0.0
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,999,Tout département,949,0.009,0.8999999999999999
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,078,Yvelines,1266,0.022,2.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,095,Val-d'Oise,1409,0.053,5.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,999,Tout département,1206,0.026,2.6
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,028,Eure-et-Loir,1413,-0.002,-0.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,037,Indre-et-Loire,992,0.010,1.0
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,041,Loir-et-Cher,1222,0.035,3.5000000000000004
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,025,Doubs,931,0.007,0.7000000000000001
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,039,Jura,1111,0.049,4.9
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,070,Haute-Saône,1012,0.001,0.1
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,089,Yonne,1290,0.047,4.7
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,027,Eure,1363,0.020,2.0
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,076,Seine-Maritime,1045,-0.012,-1.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,999,Tout département,1118,0.009,0.8999999999999999
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,002,Aisne,1280,-0.012,-1.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,059,Nord,978,0.026,2.6
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,062,Pas-de-Calais,1075,0.030,3.0
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,052,Haute-Marne,1246,0.112,11.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,067,Bas-Rhin,825,-0.003,-0.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,044,Loire-Atlantique,999,0.010,1.0
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,049,Maine-et-Loire,960,0.006,0.6
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,035,Ille-et-Vilaine,933,-0.012,-1.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,999,Tout département,943,0.000,0.0
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,017,Charente-Maritime,913,0.003,0.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,047,Lot-et-Garonne,1261,0.009,0.8999999999999999
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,064,Pyrénées-Atlantiques,810,-0.024,-2.4
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,079,Deux-Sèvres,1223,0.003,0.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,087,Haute-Vienne,837,0.037,3.7
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,009,Ariège,975,0.064,6.4
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,031,Haute-Garonne,871,0.019,1.9
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,046,Lot,1049,0.035,3.5000000000000004
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,048,Lozère,1009,0.061,6.1
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,065,Hautes-Pyrénées,962,0.039,3.9
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,082,Tarn-et-Garonne,1102,0.053,5.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,001,Ain,1268,0.013,1.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,015,Cantal,909,0.013,1.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,042,Loire,1007,0.006,0.6
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,069,Rhône,926,-0.002,-0.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,074,Haute-Savoie,963,0.006,0.6
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,999,Tout département,968,0.005,0.5
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,005,Hautes-Alpes,664,-0.052,-5.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,013,Bouches-du-Rhône,785,0.016,1.6
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,083,Var,989,0.002,0.2
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,971,Guadeloupe,1009,0.024,2.4
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,999,Tout département,1009,0.024,2.4
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,974,La Réunion,884,0.001,0.1
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,077,Seine-et-Marne,1314,0.000,0.0
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,078,Yvelines,1273,0.006,0.6
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,999,Tout département,1234,0.010,1.0
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,070,Haute-Saône,989,-0.022,-2.2
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,089,Yonne,1255,-0.027,-2.7
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,014,Calvados,984,-0.014,-1.4
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,999,Tout département,1115,-0.002,-0.2
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,002,Aisne,1310,0.023,2.3
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,059,Nord,989,0.011,1.1
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,060,Oise,1295,-0.007,-0.7000000000000001
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,080,Somme,951,0.050,5.0
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,057,Moselle,1114,0.007,0.7000000000000001
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,088,Vosges,1080,-0.003,-0.3
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,999,Tout département,1026,0.014,1.4
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,044,Loire-Atlantique,1010,0.011,1.1
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,053,Mayenne,1384,0.002,0.2
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,072,Sarthe,1248,-0.013,-1.3
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,022,Côtes-d'Armor,1133,0.057,5.7
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,016,Charente,1138,-0.015,-1.5
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,023,Creuse,1041,0.037,3.7
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,079,Deux-Sèvres,1225,0.002,0.2
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,012,Aveyron,1004,-0.007,-0.7000000000000001
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,030,Gard,1069,0.025,2.5
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,034,Hérault,860,0.014,1.4
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,081,Tarn,1039,-0.025,-2.5
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,082,Tarn-et-Garonne,1111,0.008,0.8
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,015,Cantal,888,-0.023,-2.3
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,038,Isère,929,0.010,1.0
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,043,Haute-Loire,1052,0.042,4.2
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,063,Puy-de-Dôme,921,0.000,0.0
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,069,Rhône,941,0.016,1.6
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,999,Tout département,980,0.012,1.2
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,005,Hautes-Alpes,679,0.023,2.3
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,083,Var,1006,0.017,1.7000000000000002
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,084,Vaucluse,1010,0.016,1.6
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,999,Tout département,869,0.015,1.5
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02B,Haute-Corse,973,0.046,4.6
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,999,Tout département,938,-0.003,-0.3
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,973,Guyane,1321,0.114,11.4
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,999,Tout département,891,0.008,0.8
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,077,Seine-et-Marne,1350,0.027,2.7
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,095,Val-d'Oise,1447,0.006,0.6
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,028,Eure-et-Loir,1582,0.107,10.7
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,058,Nièvre,1469,0.108,10.8
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,071,Saône-et-Loire,1181,0.015,1.5
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,999,Tout département,1077,0.021,2.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,014,Calvados,1006,0.022,2.2
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,050,Manche,1287,0.000,0.0
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,062,Pas-de-Calais,1109,-0.001,-0.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,080,Somme,961,0.011,1.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,051,Marne,1049,-0.005,-0.5
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,052,Haute-Marne,1279,-0.027,-2.7
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,057,Moselle,1122,0.007,0.7000000000000001
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,044,Loire-Atlantique,962,-0.048,-4.8
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,072,Sarthe,1270,0.018,1.7999999999999998
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,017,Charente-Maritime,917,-0.002,-0.2
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,019,Corrèze,1147,0.038,3.8
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,024,Dordogne,1183,0.021,2.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,033,Gironde,844,0.017,1.7000000000000002
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,047,Lot-et-Garonne,1240,-0.050,-5.0
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,086,Vienne,983,0.048,4.8
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,999,Tout département,938,0.010,1.0
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,009,Ariège,1007,0.024,2.4
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,030,Gard,1051,-0.017,-1.7000000000000002
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,034,Hérault,873,0.015,1.5
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,046,Lot,1121,0.011,1.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,001,Ain,1307,0.012,1.2
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,026,Drôme,1094,0.038,3.8
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,042,Loire,1010,-0.001,-0.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,074,Haute-Savoie,990,0.017,1.7000000000000002
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,999,Tout département,996,0.016,1.6
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,006,Alpes-Maritimes,874,0.013,1.3
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,999,Tout département,881,0.014,1.4
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02B,Haute-Corse,969,-0.004,-0.4
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,999,Tout département,976,-0.002,-0.2
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,973,Guyane,788,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,075,Paris,824,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,078,Yvelines,991,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,092,Hauts-de-Seine,987,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,093,Seine-Saint-Denis,997,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,094,Val-de-Marne,980,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,018,Cher,1091,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,028,Eure-et-Loir,1114,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,037,Indre-et-Loire,852,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,045,Loiret,1057,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,999,Tout département,1003,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,021,Côte-d'Or,838,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,025,Doubs,765,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,071,Saône-et-Loire,965,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,061,Orne,1007,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,076,Seine-Maritime,895,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,002,Aisne,1006,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,059,Nord,792,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,008,Ardennes,857,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,010,Aube,1017,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,057,Moselle,908,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,067,Bas-Rhin,743,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,088,Vosges,902,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,999,Tout département,852,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,022,Côtes-d'Armor,881,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,029,Finistère,802,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,016,Charente,919,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,017,Charente-Maritime,765,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,040,Landes,784,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,047,Lot-et-Garonne,1014,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,079,Deux-Sèvres,1026,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,999,Tout département,786,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,011,Aude,817,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,012,Aveyron,889,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,034,Hérault,691,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,046,Lot,832,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,081,Tarn,813,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,001,Ain,996,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,003,Allier,880,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,073,Savoie,699,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,074,Haute-Savoie,768,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,999,Tout département,825,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,006,Alpes-Maritimes,730,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02A,Corse-du-Sud,800,NC,
+2016,Médecins généralistes (hors médecins à expertise particulière - MEP),99,FRANCE,999,FRANCE,849,NC,
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,973,Guyane,822,0.043,4.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,999,Tout département,826,0.066,6.6000000000000005
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,018,Cher,1138,0.043,4.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,028,Eure-et-Loir,1205,0.082,8.200000000000001
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,036,Indre,1130,0.078,7.8
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,037,Indre-et-Loire,908,0.066,6.6000000000000005
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,041,Loir-et-Cher,1056,0.060,6.0
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,999,Tout département,1071,0.068,6.800000000000001
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,014,Calvados,891,0.068,6.800000000000001
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,061,Orne,1032,0.025,2.5
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,002,Aisne,1089,0.083,8.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,008,Ardennes,922,0.076,7.6
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,010,Aube,1093,0.075,7.5
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,051,Marne,919,0.097,9.7
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,055,Meuse,938,0.043,4.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,057,Moselle,961,0.058,5.800000000000001
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,085,Vendée,1068,0.084,8.4
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,056,Morbihan,881,0.038,3.8
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,017,Charente-Maritime,795,0.039,3.9
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,023,Creuse,850,0.077,7.7
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,024,Dordogne,938,0.052,5.2
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,040,Landes,818,0.043,4.3
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,999,Tout département,821,0.045,4.5
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,009,Ariège,794,0.054,5.4
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,034,Hérault,733,0.061,6.1
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,046,Lot,874,0.051,5.1
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,065,Hautes-Pyrénées,826,0.046,4.6
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,066,Pyrénées-Orientales,717,0.059,5.9
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,082,Tarn-et-Garonne,957,0.051,5.1
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,015,Cantal,826,0.014,1.4
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,026,Drôme,925,0.038,3.8
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,042,Loire,924,0.045,4.5
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,043,Haute-Loire,918,0.081,8.1
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,063,Puy-de-Dôme,844,0.039,3.9
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,073,Savoie,728,0.042,4.2
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,006,Alpes-Maritimes,768,0.052,5.2
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,083,Var,848,0.056,5.6000000000000005
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,999,Tout département,765,0.052,5.2
+2017,Médecins généralistes (hors médecins à expertise particulière - MEP),99,FRANCE,999,FRANCE,898,0.058,5.800000000000001
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,971,Guadeloupe,918,0.066,6.6000000000000005
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,999,Tout département,957,0.037,3.7
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,973,Guyane,862,0.049,4.9
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,999,Tout département,862,0.049,4.9
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,974,La Réunion,855,0.035,3.5000000000000004
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,077,Seine-et-Marne,1195,0.049,4.9
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,091,Essonne,1163,0.068,6.800000000000001
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,092,Hauts-de-Seine,1061,0.036,3.6
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,094,Val-de-Marne,1113,0.043,4.3
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,095,Val-d'Oise,1184,0.076,7.6
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,037,Indre-et-Loire,942,0.037,3.7
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,039,Jura,961,0.037,3.7
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,089,Yonne,1154,0.042,4.2
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,061,Orne,1091,0.057,5.7
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,080,Somme,864,0.024,2.4
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,008,Ardennes,957,0.038,3.8
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,051,Marne,971,0.057,5.7
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,054,Meurthe-et-Moselle,870,0.039,3.9
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,067,Bas-Rhin,791,0.030,3.0
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,999,Tout département,936,0.041,4.1000000000000005
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,999,Tout département,1038,0.045,4.5
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,035,Ille-et-Vilaine,896,0.038,3.8
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,999,Tout département,910,0.039,3.9
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,024,Dordogne,987,0.052,5.2
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,064,Pyrénées-Atlantiques,796,0.028,2.8000000000000003
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,011,Aude,889,0.035,3.5000000000000004
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,030,Gard,929,0.043,4.3
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,031,Haute-Garonne,814,0.049,4.9
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,034,Hérault,761,0.038,3.8
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,048,Lozère,911,0.085,8.5
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,066,Pyrénées-Orientales,763,0.064,6.4
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,081,Tarn,871,0.031,3.1
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,026,Drôme,967,0.045,4.5
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,042,Loire,968,0.048,4.8
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,999,Tout département,902,0.038,3.8
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,005,Hautes-Alpes,674,0.067,6.7
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,083,Var,875,0.032,3.2
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02A,Corse-du-Sud,835,0.030,3.0
+2018,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,999,Tout département,858,0.048,4.8
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,971,Guadeloupe,947,0.032,3.2
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,999,Tout département,947,0.032,3.2
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,972,Martinique,976,0.020,2.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,974,La Réunion,853,-0.002,-0.2
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,976,Mayotte,9,-0.250,-25.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,075,Paris,915,0.035,3.5000000000000004
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,077,Seine-et-Marne,1241,0.039,3.9
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,091,Essonne,1226,0.054,5.4
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,094,Val-de-Marne,1188,0.067,6.7
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,999,Tout département,1123,0.049,4.9
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,028,Eure-et-Loir,1340,0.039,3.9
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,036,Indre,1268,0.066,6.6000000000000005
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,999,Tout département,1169,0.041,4.1000000000000005
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,025,Doubs,895,0.053,5.3
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,071,Saône-et-Loire,1046,0.018,1.7999999999999998
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,089,Yonne,1179,0.022,2.2
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,014,Calvados,955,0.037,3.7
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,061,Orne,1177,0.079,7.9
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,002,Aisne,1230,0.070,7.000000000000001
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,080,Somme,893,0.034,3.4000000000000004
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,008,Ardennes,978,0.022,2.2
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,052,Haute-Marne,1085,0.081,8.1
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,057,Moselle,1031,0.041,4.1000000000000005
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,068,Haut-Rhin,1082,0.043,4.3
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,044,Loire-Atlantique,992,0.023,2.3
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,049,Maine-et-Loire,959,0.019,1.9
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,053,Mayenne,1324,0.046,4.6
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,085,Vendée,1209,0.062,6.2
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,022,Côtes-d'Armor,1053,0.029,2.9000000000000004
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,056,Morbihan,923,0.022,2.2
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,064,Pyrénées-Atlantiques,822,0.033,3.3000000000000003
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,086,Vienne,890,0.021,2.1
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,999,Tout département,883,0.034,3.4000000000000004
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,999,Tout département,867,0.036,3.6
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,003,Allier,1059,0.040,4.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,015,Cantal,854,0.022,2.2
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,026,Drôme,967,0.000,0.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,063,Puy-de-Dôme,907,0.037,3.7
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,069,Rhône,908,0.040,4.0
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02A,Corse-du-Sud,876,0.049,4.9
+2019,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02B,Haute-Corse,870,-0.011,-1.1
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,971,Guadeloupe,970,0.024,2.4
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,972,Martinique,980,0.004,0.4
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,999,Tout département,980,0.004,0.4
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,973,Guyane,981,0.047,4.7
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,974,La Réunion,876,0.027,2.7
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,999,Tout département,876,0.027,2.7
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,075,Paris,928,0.014,1.4
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,077,Seine-et-Marne,1291,0.040,4.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,094,Val-de-Marne,1211,0.019,1.9
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,037,Indre-et-Loire,986,0.020,2.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,045,Loiret,1246,0.020,2.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,070,Haute-Saône,978,-0.005,-0.5
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,071,Saône-et-Loire,1094,0.046,4.6
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,999,Tout département,1015,0.017,1.7000000000000002
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,050,Manche,1219,0.009,0.8999999999999999
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,060,Oise,1296,0.034,3.4000000000000004
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,055,Meuse,1112,0.048,4.8
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,067,Bas-Rhin,818,0.017,1.7000000000000002
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,068,Haut-Rhin,1090,0.007,0.7000000000000001
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,044,Loire-Atlantique,985,-0.007,-0.7000000000000001
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,049,Maine-et-Loire,967,0.008,0.8
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,035,Ille-et-Vilaine,924,0.011,1.1
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,056,Morbihan,944,0.023,2.3
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,017,Charente-Maritime,881,0.035,3.5000000000000004
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,023,Creuse,916,-0.023,-2.3
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,040,Landes,883,0.007,0.7000000000000001
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,047,Lot-et-Garonne,1196,0.020,2.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,064,Pyrénées-Atlantiques,812,-0.012,-1.2
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,079,Deux-Sèvres,1206,0.039,3.9
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,086,Vienne,918,0.032,3.2
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,011,Aude,953,0.037,3.7
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,032,Gers,916,0.030,3.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,034,Hérault,816,0.037,3.7
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,066,Pyrénées-Orientales,810,0.044,4.4
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,081,Tarn,972,0.062,6.2
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,082,Tarn-et-Garonne,1058,0.021,2.1
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,001,Ain,1215,0.081,8.1
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,003,Allier,1074,0.014,1.4
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,007,Ardèche,1019,-0.008,-0.8
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,026,Drôme,986,0.020,2.0
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,042,Loire,990,0.035,3.5000000000000004
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,013,Bouches-du-Rhône,776,0.022,2.2
+2020,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02B,Haute-Corse,929,0.068,6.800000000000001
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),1,Guadeloupe,999,Tout département,985,0.016,1.6
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,972,Martinique,941,-0.039,-3.9
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,999,Tout département,941,-0.039,-3.9
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,974,La Réunion,880,0.005,0.5
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,976,Mayotte,301,2.040,204.0
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,999,Tout département,301,2.040,204.0
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,077,Seine-et-Marne,1307,0.012,1.2
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,092,Hauts-de-Seine,1176,0.024,2.4
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,094,Val-de-Marne,1222,0.009,0.8999999999999999
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,036,Indre,1261,-0.023,-2.3
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,999,Tout département,1194,0.000,0.0
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,021,Côte-d'Or,929,0.020,2.0
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,025,Doubs,925,0.011,1.1
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,070,Haute-Saône,1011,0.034,3.4000000000000004
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,014,Calvados,974,0.009,0.8999999999999999
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,027,Eure,1336,0.025,2.5
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,076,Seine-Maritime,1058,0.007,0.7000000000000001
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,060,Oise,1305,0.007,0.7000000000000001
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,062,Pas-de-Calais,1044,0.002,0.2
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,999,Tout département,1028,0.007,0.7000000000000001
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,008,Ardennes,1028,0.017,1.7000000000000002
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,051,Marne,1041,0.033,3.3000000000000003
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,052,Haute-Marne,1121,0.015,1.5
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,055,Meuse,1129,0.015,1.5
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,057,Moselle,1082,0.012,1.2
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,067,Bas-Rhin,828,0.012,1.2
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,999,Tout département,999,0.016,1.6
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,049,Maine-et-Loire,954,-0.013,-1.3
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,053,Mayenne,1350,0.031,3.1
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,016,Charente,1098,0.010,1.0
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,024,Dordogne,1091,0.011,1.1
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,040,Landes,891,0.009,0.8999999999999999
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,047,Lot-et-Garonne,1250,0.045,4.5
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,079,Deux-Sèvres,1220,0.012,1.2
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,087,Haute-Vienne,807,0.028,2.8000000000000003
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,011,Aude,981,0.029,2.9000000000000004
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,030,Gard,1009,0.023,2.3
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,034,Hérault,842,0.032,3.2
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,081,Tarn,999,0.028,2.8000000000000003
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,999,Tout département,910,0.026,2.6
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,015,Cantal,897,0.003,0.3
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,038,Isère,922,0.015,1.5
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,043,Haute-Loire,989,0.007,0.7000000000000001
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,004,Alpes-de-Haute-Provence,827,-0.001,-0.1
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,005,Hautes-Alpes,701,0.007,0.7000000000000001
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,013,Bouches-du-Rhône,773,-0.003,-0.3
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02B,Haute-Corse,931,0.002,0.2
+2021,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,999,Tout département,930,0.002,0.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,973,Guyane,1118,0.114,11.4
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,999,Tout département,1118,0.114,11.4
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,974,La Réunion,883,0.003,0.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,976,Mayotte,475,0.578,57.8
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,075,Paris,955,0.034,3.4000000000000004
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,077,Seine-et-Marne,1314,0.005,0.5
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,094,Val-de-Marne,1219,-0.002,-0.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,018,Cher,1446,0.086,8.6
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,036,Indre,1296,0.028,2.8000000000000003
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,999,Tout département,1222,0.024,2.4
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,090,Territoire de Belfort,1067,0.041,4.1000000000000005
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,999,Tout département,1047,0.019,1.9
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,008,Ardennes,1058,0.029,2.9000000000000004
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,051,Marne,1040,-0.001,-0.1
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,054,Meurthe-et-Moselle,923,0.019,1.9
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,055,Meuse,1138,0.008,0.8
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,053,Mayenne,1381,0.023,2.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,085,Vendée,1232,-0.030,-3.0
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,999,Tout département,1078,-0.001,-0.1
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,029,Finistère,879,0.001,0.1
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,056,Morbihan,953,0.002,0.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,019,Corrèze,1079,0.013,1.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,033,Gironde,824,0.011,1.1
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,040,Landes,938,0.053,5.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,086,Vienne,928,0.011,1.1
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,999,Tout département,924,0.012,1.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,011,Aude,979,-0.002,-0.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,012,Aveyron,1012,0.012,1.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,032,Gers,964,-0.050,-5.0
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,034,Hérault,848,0.007,0.7000000000000001
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,066,Pyrénées-Orientales,862,0.021,2.1
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,081,Tarn,1066,0.067,6.7
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,003,Allier,1169,0.030,3.0
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,007,Ardèche,1092,0.053,5.3
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,038,Isère,920,-0.002,-0.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,043,Haute-Loire,1010,0.021,2.1
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,063,Puy-de-Dôme,921,-0.009,-0.8999999999999999
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,073,Savoie,784,-0.002,-0.2
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,006,Alpes-Maritimes,849,0.007,0.7000000000000001
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,999,Tout département,944,0.015,1.5
+2022,Médecins généralistes (hors médecins à expertise particulière - MEP),99,FRANCE,999,FRANCE,1014,0.013,1.3
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,972,Martinique,941,-0.008,-0.8
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,999,Tout département,941,-0.008,-0.8
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),3,Guyane,973,Guyane,1186,0.061,6.1
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,094,Val-de-Marne,1257,0.031,3.1
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,095,Val-d'Oise,1439,0.021,2.1
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,018,Cher,1437,-0.006,-0.6
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,028,Eure-et-Loir,1429,0.011,1.1
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,036,Indre,1313,0.013,1.3
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,037,Indre-et-Loire,1010,0.018,1.7999999999999998
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,025,Doubs,938,0.008,0.8
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,058,Nièvre,1326,-0.016,-1.6
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,071,Saône-et-Loire,1164,0.003,0.3
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,999,Tout département,1055,-0.001,-0.1
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,027,Eure,1339,-0.017,-1.7000000000000002
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,050,Manche,1287,0.025,2.5
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,062,Pas-de-Calais,1110,0.033,3.3000000000000003
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,051,Marne,1054,0.014,1.4
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,052,Haute-Marne,1314,0.055,5.5
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,055,Meuse,1144,0.005,0.5
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,049,Maine-et-Loire,988,0.029,2.9000000000000004
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,085,Vendée,1303,0.058,5.800000000000001
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,999,Tout département,1098,0.019,1.9
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,029,Finistère,876,-0.003,-0.3
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,024,Dordogne,1159,0.019,1.9
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,047,Lot-et-Garonne,1305,0.035,3.5000000000000004
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,086,Vienne,938,0.011,1.1
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,087,Haute-Vienne,874,0.044,4.4
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,009,Ariège,983,0.008,0.8
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,031,Haute-Garonne,867,-0.004,-0.4
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,048,Lozère,978,-0.030,-3.0
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,065,Hautes-Pyrénées,932,-0.031,-3.1
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,066,Pyrénées-Orientales,892,0.035,3.5000000000000004
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,999,Tout département,937,0.009,0.8999999999999999
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,004,Alpes-de-Haute-Provence,848,-0.030,-3.0
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,006,Alpes-Maritimes,863,0.017,1.7000000000000002
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),93,Provence-Alpes-Côte d'Azur,013,Bouches-du-Rhône,798,0.017,1.7000000000000002
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02A,Corse-du-Sud,984,0.026,2.6
+2023,Médecins généralistes (hors médecins à expertise particulière - MEP),99,FRANCE,999,FRANCE,1025,0.011,1.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),2,Martinique,972,Martinique,938,-0.003,-0.3
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),4,La Réunion,974,La Réunion,891,0.008,0.8
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),6,Mayotte,976,Mayotte,876,0.125,12.5
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,075,Paris,958,-0.011,-1.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),11,Ile-de-France,093,Seine-Saint-Denis,1365,0.014,1.4
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,037,Indre-et-Loire,1002,-0.008,-0.8
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,045,Loiret,1268,-0.036,-3.6
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),24,Centre-Val de Loire,999,Tout département,1241,0.006,0.6
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,021,Côte-d'Or,960,0.005,0.5
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),27,Bourgogne-Franche-Comté,039,Jura,1103,0.017,1.7000000000000002
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,027,Eure,1379,0.030,3.0
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,076,Seine-Maritime,1050,-0.010,-1.0
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),28,Normandie,999,Tout département,1126,0.010,1.0
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),32,Hauts-de-France,059,Nord,1000,0.011,1.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,067,Bas-Rhin,861,0.014,1.4
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,068,Haut-Rhin,1168,0.021,2.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),44,Grand Est,088,Vosges,1074,-0.006,-0.6
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,049,Maine-et-Loire,983,-0.005,-0.5
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),52,Pays de la Loire,999,Tout département,1075,-0.021,-2.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,029,Finistère,848,-0.032,-3.2
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),53,Bretagne,035,Ille-et-Vilaine,963,0.010,1.0
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,016,Charente,1128,-0.009,-0.8999999999999999
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,040,Landes,923,-0.005,-0.5
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),75,Nouvelle-Aquitaine,087,Haute-Vienne,872,-0.002,-0.2
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,012,Aveyron,1005,0.001,0.1
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),76,Occitanie,066,Pyrénées-Orientales,910,0.020,2.0
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,003,Allier,1168,0.026,2.6
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,007,Ardèche,1160,0.036,3.6
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,015,Cantal,911,0.026,2.6
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),84,Auvergne-Rhône-Alpes,073,Savoie,779,-0.038,-3.8
+2024,Médecins généralistes (hors médecins à expertise particulière - MEP),94,Corse,02A,Corse-du-Sud,983,-0.001,-0.1
